@@ -29,11 +29,11 @@ def alan_kay_is_known_for
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => ["Object Orientation"],
+          :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for => ["Unix"],
+          :known_for => "Unix",
           :languages => ["C"]
         }
      }
